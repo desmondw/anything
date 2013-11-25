@@ -1,0 +1,2 @@
+If you experience errors, bugs, or missing sound please go to the "Redistributable" folder and run "Redistributable.bat".
+If that doesn't resolve the issue, please let me know about any bugs!
